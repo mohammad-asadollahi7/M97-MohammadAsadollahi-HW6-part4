@@ -1,0 +1,22 @@
+.my-buttom{
+    background-color: rgb(211, 191, 191);
+    flex : 100%;
+    margin: 0.25rem;
+}
+
+.icons{
+    border: none;
+    background-color: white;
+    padding: 0;
+}
+.link{
+    text-decoration: none;
+    color: rgba(103, 103, 144, 0.9);
+}
+
+.main{
+    min-width: 300px;
+    max-width: 400px;
+    margin: 2rem auto 0;
+}
+
